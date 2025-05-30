@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VPN App</string>
+    <string name="vpn_on">Turn VPN On</string>
+    <string name="vpn_off">Turn VPN Off</string>
+    <string name="status_disconnected">Status: Disconnected</string>
+    <string name="status_connected">Status: Connected</string>
+    <string name="status_connecting">Status: Connecting...</string>
+    <string name="status_error">Status: Error</string>
+</resources>
